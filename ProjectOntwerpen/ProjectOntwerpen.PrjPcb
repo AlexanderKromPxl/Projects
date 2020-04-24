@@ -139,12 +139,93 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMKMTVAP
 
+[Document7]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ProjectOntwerpen\Design Rule Check - MYPCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=Project Outputs for ProjectOntwerpen\Design Rule Check - newMYPCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for ProjectOntwerpen\NC Drill\newMYPCB-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for ProjectOntwerpen\NC Drill\newMYPCB-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for ProjectOntwerpen\NC Drill\newMYPCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for ProjectOntwerpen\Gerber\newMYPCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for ProjectOntwerpen\Gerber\newMYPCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for ProjectOntwerpen\Gerber\newMYPCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for ProjectOntwerpen\Gerber\newMYPCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for ProjectOntwerpen\Gerber\newMYPCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for ProjectOntwerpen\Gerber\newMYPCB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for ProjectOntwerpen\Gerber\newMYPCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for ProjectOntwerpen\Gerber\newMYPCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for ProjectOntwerpen\Gerber\newMYPCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for ProjectOntwerpen\Gerber\newMYPCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for ProjectOntwerpen\NC Drill\newMYPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for ProjectOntwerpen\Gerber\newMYPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for ProjectOntwerpen\Gerber\newMYPCB.RUL
 DItemRevisionGUID=
 
 [Configuration1]
