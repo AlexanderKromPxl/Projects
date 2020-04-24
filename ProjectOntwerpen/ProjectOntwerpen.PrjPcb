@@ -55,6 +55,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WVEHHWBS
 
 [Document2]
+DocumentPath=newMYPCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EMKMTVAP
+
+[Document3]
 DocumentPath=Sheet1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GVUZENXM
 
-[Document3]
+[Document4]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRBVGUSI
 
-[Document4]
+[Document5]
 DocumentPath=MYPCBeta.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,8 +122,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JKFTXQQN
 
-[Document5]
-DocumentPath=newMYPCB.PcbDoc
+[Document6]
+DocumentPath=MYPCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
